@@ -1,1 +1,1 @@
-This is the read me for the class presentation of git 
+This is the course material from the 2016 General Assembly Data Science course
